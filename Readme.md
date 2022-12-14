@@ -1,2 +1,1 @@
-This is just a simple port scanner built with python.
-(Part of TCM Academy's PEH course task)
+TCM Security's Practical Ethical Hacking(PEH) course tasks
